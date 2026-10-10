@@ -1,0 +1,6 @@
+{
+  "name": "Labour Court Haripur - Financial Reconciliation System",
+  "description": "Official Financial Reconciliation and PIFRA/SAP Expenditure Tracking System for Labour Court Haripur, Government of Khyber Pakhtunkhwa (Grant No. 21037 (030), DDO Code HR-4007).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
